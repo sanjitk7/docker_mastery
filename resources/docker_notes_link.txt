@@ -1,0 +1,7 @@
+
+GitHub Repo with Notes - https://github.com/rbatista/docker-mastery
+
+Complete Notes - https://guh.me/notes/docker-mastery
+
+Lecture 1 - https://gist.github.com/onlurking/a07e78b8e50c3b028f2f9e4cdb4be8f6
+
